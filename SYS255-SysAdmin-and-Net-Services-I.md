@@ -1,0 +1,15 @@
+### [[Week One: Lab Prep]]
+### [[Week Two: Server 2019, ADDS and DNS]]
+### [[Week Three: Linux]]
+### [[Week Four: DHCP]]
+### [[Week Five: ADDS]]
+### [[Week Six: Rebuild Assessment]]
+### [[Week Seven: Server Core and File Services]]
+### [[Week Eight: Apache]]
+### [[Week Nine: Bash]]
+### [[Week Ten: PowerShell]]
+### [[Week Eleven: Linux Assessment]]
+### [[Week Twelve: Automation]]
+### [[Final Project]]
+
+![image](https://github.com/JNicholls2026/James-Nicholls-Tech-Journal/assets/114191684/19530328-8c3f-449f-9aac-528417601da8)

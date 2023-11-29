@@ -1,0 +1,16 @@
+* [[Week 1: Intro to HTML and VI]]
+* [[Week 2: Web Resources, Paths, and HTTP]]
+* [[Week 3: GET and POST Requests, Crypto, and HTTPS]]
+* [[Week 4: Certificate Authorities and Public Key Infrastructure]]
+* [[Week 5: Hashing, Certs, and TLS]]
+* [[Week 6: Man in The Middle Proxy and Midterm]]
+* [[Week 7: Apache Hardening]]
+* [[Week 8: Mod Security]]
+* [[Week 9: IIS Hardening]]
+* [[Week 10: OWASP]]
+* [[Week 11: JavaScript and XSS]]
+* [[Week 12: PHP Web Shells and SQL Basics]]
+* [[Week 13: Lamp Stacks and SQL Injection]]
+
+Back to Course Page:
+[[Course Journal]]
