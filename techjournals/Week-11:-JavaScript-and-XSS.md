@@ -14,7 +14,7 @@
    * Developed by Netscape
    * Now a standard exists –
      
-     w<spam>ww.ecma-international.org/publications/standards/ECMA-262.HTM
+     `www.ecma-international.org/publications/standards/ECMA-262.HTM`
 
 ### Java and JavaScript
 
@@ -108,12 +108,12 @@ window.alert(‘sometext’);
 
 Execute a JavaScript if an error occurs when loading an image:
 
-<i<span>mg src="image.gif" onerror="myFunction()">
+`<img src="image.gif" onerror="myFunction()">`
 
 So – useful in XSS...
 
 If you reference an image file that does not exist, it will run the error function/method
 
-<i<span>mg src=“NoFile.gif” onerror=alert(‘VulnerableToXSS’)>
+`<img src=“NoFile.gif” onerror=alert(‘VulnerableToXSS’)>`
 
 ## 11.2 XXX, XSRF, and Path Traversal

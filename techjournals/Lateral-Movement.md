@@ -22,7 +22,6 @@ Data exfiltration is particularly problematic because the amount of data that ca
 
 ## Start the Attack
 
-**<span style="text-decoration:underline;">Work individually or with your partner.</span>**
 
 Login to your Kali system and perform the attack to [obtain a reverse shell on Windows 7.](https://docs.google.com/document/u/0/d/1H-UP20kA2V46aPtNbcMP4iHkW8g5_876y2nYlzmh-0w/edit)
 

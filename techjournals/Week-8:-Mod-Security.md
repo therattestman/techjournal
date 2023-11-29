@@ -81,11 +81,11 @@ Directory traversal aims to access files and directories that are stored outside
 Attackers could access arbitrary files stored on the file system including application source code and/or critical system files
 
 * By manipulating URLs with “dot-dot-slash (../)” sequences and its variations
-   * ht<span>tp://some_site.com.br/../../../../etc/shadow
+   * `http://some_site.com.br/../../../../etc/shadow`
    * Cookie: TEMPLATE=../../../../../../../../../etc/passwd
 * Using absolute file paths
-   * ht<span>tp://some_site.com.br/get-files?file=/etc/passwd
-   * ht<span>tp://testsite.com/get.cgi?f=/var/www/html/admin/get.inc
+   * http://some_site.com.br/get-files?file=/etc/passwd
+   * http://testsite.com/get.cgi?f=/var/www/html/admin/get.inc
 
 ### Directory Traversal: Percent Encoding
 

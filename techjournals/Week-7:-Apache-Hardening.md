@@ -81,8 +81,8 @@ Virtual Hosting:
 * allows one Apache installation to serve many different Web sites.
 
 * For example, one machine with one Apache installation (aka 1 IP address) could simultaneously serve:
-   * w<span>ww.example.com
-   * w<span>ww.example.org
+   * www.example.com
+   * www.example.org
    * test47.test-server.example.edu
 
 * Uses info in the Client Request Header to point to the correct site

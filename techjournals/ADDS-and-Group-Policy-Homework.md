@@ -11,11 +11,11 @@ This command is used to display the Resultant Set of Policy(RSoP) or which group
 
 **Current user syntax:** 
 
-gpresult /user <username> /h <path\to\output\file.html>
+`gpresult /user <username> /h <path\to\output\file.html>`
 
 **Specific computer syntax:**
 
-gpresult /computer <computername> /h <path\to\output\file.html>
+`gpresult /computer <computername> /h <path\to\output\file.html>`
 
 * gpupdate
 
